@@ -1,6 +1,6 @@
 ## K-Nearest Neighbors Implementation
 
-[KNearestNeighbors](https://github.com/XiongCynthia/KNearestNeighbors/blob/main/KNearestNeighbors.py) is a class calculating k-nearest neighbors in a dataset.
+[KNearestNeighbors](https://github.com/XiongCynthia/KNearestNeighbors/blob/main/KNearestNeighbors.py) is a class for calculating k-nearest neighbors in a dataset.
 
 ### Usage
 
