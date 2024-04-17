@@ -6,7 +6,7 @@
 
 ```python
 from KNearestNeighbors import KNearestNeighbors
-knn = knn(x_train)
+knn = KNearestNeighbors(x_train)
 result = knn.get_nearest_neighbors(x_test)
 ```
 
